@@ -20,11 +20,6 @@ Vrinda Store wants to create an annual sales report for 2022 to better understan
 
 ---
 
-## Dashboard Preview
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
-
----
-
 ## Business Questions Explored
 
 1. Compare the sales and orders using a single chart
